@@ -1,0 +1,209 @@
+
+body {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+header {
+	margin-bottom: 50px;
+}
+
+.logo {
+	margin-right: 50px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.pages {
+	display: inline-block;
+	vertical-align: middle;
+	text-decoration: none;
+}
+
+
+li {
+	display: inline-block;
+	margin-right: 30px;
+
+}
+
+.navigation1 { font-family: "BPGNinoMtavruli-Bold", sans-serif;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: 500;
+	color: #EE4036;
+}
+
+.navigation2 {font-family: "BPGNinoMtavruli-Bold", sans-serif;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: 500;
+	color: #3D58A6;
+}
+.navigation3 {font-family: "BPGNinoMtavruli-Bold", sans-serif;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: 500;
+	color: #3D58A6;
+
+}
+
+
+article {
+	margin-bottom: 40px;
+}
+
+.p27 {
+	color: white;
+	background-color: #3D58A6;
+	width: 56px;
+	height: 54px;
+	font-size: 48px;
+	margin-bottom: 3px;
+}
+
+.month {
+	font-size: 22px;
+	color: #3D58A6;
+	margin-bottom: 22px;
+}
+
+.article-title {
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: 700;
+	color: royalblue;
+       margin-bottom: 16px;
+}
+
+
+.article-img {
+	vertical-align: top;
+}
+
+.text { font-family: "BPGIngiriArial", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	display: inline-block;
+	width: 900px;
+	margin-left: 40px;
+	vertical-align: top;
+}
+
+p {
+	margin-bottom: 20px;
+}
+
+
+
+footer {
+	margin-bottom: 26px;
+}
+
+.fb-symbol {
+	margin-right: 30px;
+}
+
+.middle-line {
+	width: 1px;
+	height: 27px;
+	background-color: #363E97;
+	display: inline-block;
+	margin-right: 30px;
+
+}
+
+.box {
+
+width: 1170px;
+margin: 0 auto;
+}
+
+.media-h3 {  
+	font-family: "roboto-regular", sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	margin-top:40px;}
+
+
+ .box { margin-top: 50px;
+
+ }
+
+
+ .web-h4, .app-h4 { 
+ 	font-family: "roboto-regular", sans-serif;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: 200;
+        color: #3D58A6;
+	    margin-bottom: 20px;
+}
+
+
+
+
+.card-web,.card-app { 
+	height: 225px;
+	width: 560px;
+	background-color: #F2F2F2;
+	padding: 15px 15px 40px 20px;
+	display: inline-block;}
+
+
+.card-web{
+	margin-right:30px;
+}
+
+.card-img {  
+      vertical-align: top;
+	  margin-right: 60px;
+	} 
+
+
+
+.card-p {
+	font-family: "roboto-regular", sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 200;
+	width: 355px;
+	display: inline-block;
+	vertical-align: top;
+	color: #333333;
+}
+
+
+
+
+
+.title {margin-top: 100px;
+	  margin-bottom: 20px;
+         display: inline-block;
+	  color: black;
+
+}
+
+.html-img {margin-left: 50px;
+           width:1170px;
+           height: 460;
+ 
+}
+
+.contact-title {
+	text-align: center;
+	
+
+}
+
+.contact-ul {
+	text-align: center;}
+
+
+.map{ width: 800px;
+       height: 500px; 
+       
+   }
